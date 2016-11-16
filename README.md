@@ -1,6 +1,6 @@
-# Banking Form
+# Blog Page
 
-## This is for the second exercise in front-end-milestones/2-the-static-web
+## This is for the first exercise in front-end-milestones/2-the-static-web
 
 ### Instructions for exercise:
 
