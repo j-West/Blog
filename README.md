@@ -1,6 +1,6 @@
 # Blog Page
 
-## This is for the first exercise in front-end-milestones/2-the-static-web
+## First exercise in front-end-milestones/the-static-web
 
 ### Instructions for exercise:
 
